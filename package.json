@@ -1,0 +1,25 @@
+{
+  "name": "express-02",
+  "version": "1.0.0",
+  "description": "Aprendendo mexer com rotas no express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioOta/express-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioOta/express-02/issues"
+  },
+  "homepage": "https://github.com/CaioOta/express-02#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
